@@ -1,0 +1,153 @@
+# Page snapshot
+
+```yaml
+- generic:
+  - generic:
+    - generic:
+      - generic:
+        - generic [ref=e1]:
+          - generic [ref=e3]: Singlish ↔ English Translator
+          - generic [ref=e4]:
+            - button "Help" [ref=e5] [cursor=pointer]
+            - generic [ref=e6]:
+              - generic [ref=e7]: Switch Typing Language
+              - combobox [ref=e8]:
+                - option "Singlish" [selected]
+                - option "Sinhala"
+        - generic [ref=e9]:
+          - generic [ref=e10]:
+            - button "Hide Tools" [ref=e12] [cursor=pointer]:
+              - img [ref=e13]
+            - generic [ref=e15]:
+              - generic [ref=e16]:
+                - generic [ref=e17]: Features
+                - generic [ref=e19]:
+                  - generic [ref=e20]:
+                    - generic [ref=e21]: Word Autocorrect
+                    - generic [ref=e22]: Automatically correct common typos in input.
+                  - checkbox [ref=e24]
+              - generic [ref=e26]:
+                - generic [ref=e27]: Singlish Touchpad
+                - generic [ref=e29]:
+                  - generic [ref=e30]:
+                    - button "අ" [ref=e31] [cursor=pointer]
+                    - button "ආ" [ref=e32] [cursor=pointer]
+                    - button "ඇ" [ref=e33] [cursor=pointer]
+                    - button "ඈ" [ref=e34] [cursor=pointer]
+                    - button "ඉ" [ref=e35] [cursor=pointer]
+                    - button "ඊ" [ref=e36] [cursor=pointer]
+                    - button "උ" [ref=e37] [cursor=pointer]
+                    - button "ඌ" [ref=e38] [cursor=pointer]
+                    - button "ඍ" [ref=e39] [cursor=pointer]
+                    - button "ඎ" [ref=e40] [cursor=pointer]
+                    - button "ඏ" [ref=e41] [cursor=pointer]
+                    - button "ඐ" [ref=e42] [cursor=pointer]
+                    - button "එ" [ref=e43] [cursor=pointer]
+                    - button "ඒ" [ref=e44] [cursor=pointer]
+                    - button "ඓ" [ref=e45] [cursor=pointer]
+                    - button "ඔ" [ref=e46] [cursor=pointer]
+                    - button "ඕ" [ref=e47] [cursor=pointer]
+                    - button "ඖ" [ref=e48] [cursor=pointer]
+                  - generic [ref=e49]:
+                    - button "ක" [ref=e50] [cursor=pointer]
+                    - button "ඛ" [ref=e51] [cursor=pointer]
+                    - button "ග" [ref=e52] [cursor=pointer]
+                    - button "ඝ" [ref=e53] [cursor=pointer]
+                    - button "ඞ" [ref=e54] [cursor=pointer]
+                    - button "ඟ" [ref=e55] [cursor=pointer]
+                    - button "ච" [ref=e56] [cursor=pointer]
+                    - button "ඡ" [ref=e57] [cursor=pointer]
+                    - button "ජ" [ref=e58] [cursor=pointer]
+                    - button "ඣ" [ref=e59] [cursor=pointer]
+                    - button "ඤ" [ref=e60] [cursor=pointer]
+                    - button "ට" [ref=e61] [cursor=pointer]
+                    - button "ඨ" [ref=e62] [cursor=pointer]
+                    - button "ඩ" [ref=e63] [cursor=pointer]
+                    - button "ඪ" [ref=e64] [cursor=pointer]
+                    - button "ණ" [ref=e65] [cursor=pointer]
+                    - button "ඬ" [ref=e66] [cursor=pointer]
+                    - button "ත" [ref=e67] [cursor=pointer]
+                    - button "ථ" [ref=e68] [cursor=pointer]
+                    - button "ද" [ref=e69] [cursor=pointer]
+                    - button "ධ" [ref=e70] [cursor=pointer]
+                    - button "න" [ref=e71] [cursor=pointer]
+                    - button "ඳ" [ref=e72] [cursor=pointer]
+                    - button "ප" [ref=e73] [cursor=pointer]
+                    - button "ඵ" [ref=e74] [cursor=pointer]
+                    - button "බ" [ref=e75] [cursor=pointer]
+                    - button "භ" [ref=e76] [cursor=pointer]
+                    - button "ම" [ref=e77] [cursor=pointer]
+                    - button "ඹ" [ref=e78] [cursor=pointer]
+                    - button "ය" [ref=e79] [cursor=pointer]
+                    - button "ර" [ref=e80] [cursor=pointer]
+                    - button "ල" [ref=e81] [cursor=pointer]
+                    - button "ව" [ref=e82] [cursor=pointer]
+                    - button "ශ" [ref=e83] [cursor=pointer]
+                    - button "ෂ" [ref=e84] [cursor=pointer]
+                    - button "ස" [ref=e85] [cursor=pointer]
+                    - button "හ" [ref=e86] [cursor=pointer]
+                    - button "ෆ" [ref=e87] [cursor=pointer]
+                    - button "ළ" [ref=e88] [cursor=pointer]
+                  - generic [ref=e89]:
+                    - button "ා" [ref=e90] [cursor=pointer]
+                    - button "ැ" [ref=e91] [cursor=pointer]
+                    - button "ෑ" [ref=e92] [cursor=pointer]
+                    - button "ි" [ref=e93] [cursor=pointer]
+                    - button "ී" [ref=e94] [cursor=pointer]
+                    - button "ු" [ref=e95] [cursor=pointer]
+                    - button "ූ" [ref=e96] [cursor=pointer]
+                    - button "ෘ" [ref=e97] [cursor=pointer]
+                    - button "ෙ" [ref=e98] [cursor=pointer]
+                    - button "ේ" [ref=e99] [cursor=pointer]
+                    - button "ෛ" [ref=e100] [cursor=pointer]
+                    - button "ො" [ref=e101] [cursor=pointer]
+                    - button "ෝ" [ref=e102] [cursor=pointer]
+                    - button "ෟ" [ref=e103] [cursor=pointer]
+                    - button "ං" [ref=e104] [cursor=pointer]
+                    - button "ඃ" [ref=e105] [cursor=pointer]
+                    - button "්" [ref=e106] [cursor=pointer]
+                    - button "්‍ර" [ref=e107] [cursor=pointer]
+                    - button "්‍ය" [ref=e108] [cursor=pointer]
+                  - generic [ref=e109]:
+                    - button "⌫" [ref=e110] [cursor=pointer]
+                    - button "␣" [ref=e111] [cursor=pointer]
+          - generic [ref=e115]:
+            - generic [ref=e116]:
+              - generic [ref=e117]:
+                - generic [ref=e118]:
+                  - generic [ref=e119]: Singlish
+                  - generic [ref=e120]:
+                    - button "Undo" [ref=e121] [cursor=pointer]:
+                      - img [ref=e122]
+                    - button "Redo" [ref=e124] [cursor=pointer]:
+                      - img [ref=e125]
+                - generic [ref=e127]:
+                  - textbox "Input Your Singlish Text Here." [active] [ref=e128]: api adha aluth software ekak hadhanna inne
+                  - list [ref=e130]:
+                    - listitem [ref=e131] [cursor=pointer]: ඉන්නෙන්
+                    - listitem [ref=e132] [cursor=pointer]: ඉණ්ණෙ
+                    - listitem [ref=e133] [cursor=pointer]: ඉණ්නෙ
+                    - listitem [ref=e134] [cursor=pointer]: ඉන්ණෙ
+                    - listitem [ref=e135] [cursor=pointer]: ඉන්නේ
+                - generic [ref=e136]:
+                  - button "Open File" [ref=e137] [cursor=pointer]:
+                    - img [ref=e138]
+                  - button "Copy" [ref=e140] [cursor=pointer]:
+                    - img [ref=e141]
+                  - button "Cut" [ref=e143] [cursor=pointer]:
+                    - img [ref=e144]
+                  - button "Paste" [ref=e146] [cursor=pointer]:
+                    - img [ref=e147]
+                  - button "Clear" [ref=e149] [cursor=pointer]:
+                    - img [ref=e150]
+              - button "Swap Languages" [ref=e153] [cursor=pointer]:
+                - img [ref=e154]
+              - generic [ref=e156]:
+                - generic [ref=e157]: Sinhala
+                - generic [ref=e159]:
+                  - button "Copy" [ref=e160] [cursor=pointer]:
+                    - img [ref=e161]
+                  - button "Clear" [ref=e163] [cursor=pointer]:
+                    - img [ref=e164]
+            - button "Clear" [ref=e167] [cursor=pointer]: 🗑️ Clear
+```
